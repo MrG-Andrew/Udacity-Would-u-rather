@@ -1,0 +1,7 @@
+.new-question-container {
+  flex-direction: column;
+}
+
+.new-question-field {
+  width: 400px;
+}

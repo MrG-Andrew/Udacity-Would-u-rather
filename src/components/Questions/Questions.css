@@ -1,0 +1,15 @@
+.questions {
+  width: 100%;
+  max-width: 1000px;
+  min-width: 600px;
+  margin: 10px;
+}
+
+.question-block {
+  padding: 10px;
+}
+
+.question-title {
+  margin: 0;
+  color: #333;
+}

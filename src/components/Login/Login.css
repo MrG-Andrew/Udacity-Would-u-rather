@@ -1,0 +1,19 @@
+.login-container {
+  position: fixed;
+  flex-direction: column;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#login-bottom-space {
+  margin-bottom: 200px;
+}
+
+#login-user-select {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
